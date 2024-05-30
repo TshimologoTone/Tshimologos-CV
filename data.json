@@ -1,38 +1,33 @@
 {
     "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
+        "fullName" : "Tshimologo Tone",
+        "phone" : "0794595731",
+        "email" : "tonetshimologo@gmail.com"
+    },
+    "summary" : {
+        "summary" : "A results-driven professional with a BCom in Industrial Psychology from UJ and a passion for driving organizational success. Currently pursuing a Postgraduate Business Administration degree with a focus on Digital Transformation. Proven track record as a Sales Agent at Telkom, demonstrating exceptional communication and negotiation skills. I am committed to leveraging academic and practical experiences to contribute effectively to dynamic business environments. Open to networking and exploring opportunities in the intersection of psychology, business, and digital transformation."
+    },
+    "experience" : {
+        "Job title" : "Telkom (The Sales Scientist)",
+        "position" : "Sales Associate",
+        "duties" : "Answered incoming telephone calls and responded to customer questions. Resolved problems according to standardized procedures while maintaining a courteous manner. Explained and provided clarity to customers on our telecommunication offerings. Responded to queries based on any Telkom product.
+         Delivered quality customer service and developed relationships with prospective customers. Informed current and prospective customers of promotions and new or upgraded products. Quoted prices and encouraged customers to buy.
+         Strong demonstrated ability to market and sell in a multi-product environment.
+         Excellent interpersonal skills including written, verbal and presentation delivery. Ability to develop and maintain customer relationships."
     },
     "education" : {
-        "institutionName" : "",
-        "photo" : "",
-        "description" : ""
+        "institutionName" : "Universirty of Johannesburg",
+        "description" : "Bcom in Industrial Psychology",
+        "institutionName" : "Johannesburg Business School",
+        "description" : "PGDip BA (Digital Transformation"
     },
-    "foreignLanguage" : {
-        "language" : "",
-        "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        },
-        {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        }]
+    "skills" : {
+        "skills" : "Communication skills, Customer service, Time management, Leadership, Presentation Skills, Problem Resolution,
+        Teamwork, Computer Literacy, Adaptability, Conflict Management, Microsoft Office, Strategic Thinking, Change
+        Management, Innovation, Project Management, Data Analytics, Employee Relations, Organizational Behavior, Psyhological
+        Insight, Research & Analysis, Personnel Assessment, Ethical Awareness, Interpersonal Skills, Negotiation"
     },
-    "favouriteSubjects" : [
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        }
-    ]
+    "language" : {
+        "languages" : "English, Tswana, Zulu, Afrikaans"
+    }
 }
