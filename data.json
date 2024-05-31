@@ -2,7 +2,8 @@
     "user" : {
         "fullName" : "Tshimologo Tone",
         "phone" : "0794595731",
-        "email" : "tonetshimologo@gmail.com"
+        "email" : "tonetshimologo@gmail.com",
+        "photo":"./Tshimo.jpg"
     },
     "summary" : {
         "summary" : "A results-driven professional with a BCom in Industrial Psychology from UJ and a passion for driving organizational success. Currently pursuing a Postgraduate Business Administration degree with a focus on Digital Transformation. Proven track record as a Sales Agent at Telkom, demonstrating exceptional communication and negotiation skills. I am committed to leveraging academic and practical experiences to contribute effectively to dynamic business environments. Open to networking and exploring opportunities in the intersection of psychology, business, and digital transformation."
@@ -15,8 +16,10 @@
     "education" : {
         "institutionName" : "Universirty of Johannesburg",
         "description" : "Bcom in Industrial Psychology",
+        "photo" : "./UJ.png",
         "institutionName" : "Johannesburg Business School",
-        "description" : "PGDip BA (Digital Transformation"
+        "description" : "PGDip BA (Digital Transformation",
+        "photo" : "./JBS.png"
     },
     "skills" : {
         "skills" : "Communication skills, Customer service, Time management, Leadership, Presentation Skills, Problem Resolution,Teamwork, Computer Literacy, Adaptability, Conflict Management, Microsoft Office, Strategic Thinking, Change Management, Innovation, Project Management, Data Analytics, Employee Relations, Organizational Behavior, Psyhological Insight, Research & Analysis, Personnel Assessment, Ethical Awareness, Interpersonal Skills, Negotiation"
